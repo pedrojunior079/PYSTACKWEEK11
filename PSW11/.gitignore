@@ -1,0 +1,2 @@
+# ignora o ambiente virtual de instalação do python da pasta venv
+venv/
